@@ -5,7 +5,7 @@ substitutions:
   device_internal_name: esphome_foundation_device
   device_wifi_name: esphome-foundation-device-wifi
   device_friendly_name: ESPHome Foundation Device
-  device_ip_address: 192.168.0.160
+  device_ip_address: 192.168.20.160
   device_sampling_time: 30s
 
 ################################################################################
